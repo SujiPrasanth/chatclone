@@ -40,3 +40,34 @@ This project is designed for learning and demonstrating real-world full-stack co
 - Multer (File Uploads)
 
 
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/chatclone.git
+cd chatclone
+
+cd backend
+npm install
+
+Run MongoDB locally:
+node seedBotQA.js
+
+Start backend server:
+node server.js
+
+Backend runs on:
+http://localhost:3000
+
+cd frontend
+npm install
+npm run dev
+
+
+Frontend runs on:
+
+http://localhost:5173
+
+
