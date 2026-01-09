@@ -51,6 +51,7 @@ cd chatclone
 
 cd backend
 npm install
+npm install bcrypt
 
 Run MongoDB locally:
 node seedBotQA.js
