@@ -46,7 +46,7 @@ This project is designed for learning and demonstrating real-world full-stack co
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/chatclone.git
+git clone https://github.com/SujiPrasanth/chatclone.git
 cd chatclone
 
 cd backend
