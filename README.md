@@ -73,6 +73,7 @@ chatclone/
 │   │   └── upload.js
 │   ├── server.js
 │   └── package.json
+|   └── seedBotQA.js
 │
 ├── frontend/
 │   ├── src/
